@@ -1,7 +1,6 @@
 # YutongLi-git
 **Hello, I am YutongLi!**
-
-a student passionate about machine learning from China.
+\\a student passionate about machine learning from China.
 
 **About me:**
 an undergraduate student studying at University of Electronic Science and Technology of China(UESTC)
