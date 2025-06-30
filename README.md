@@ -1,4 +1,4 @@
-# YuTong-Li-git
+# YutongLi-git
 **Hello, I am YutongLi**
 a student passionate about machine learning from China.
 
